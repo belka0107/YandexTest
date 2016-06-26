@@ -1,12 +1,10 @@
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.junit.runners.Parameterized;
 
-import java.io.IOException;
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 /**
  * Created by liza on 21.06.16.
